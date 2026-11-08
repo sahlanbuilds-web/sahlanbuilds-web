@@ -49,11 +49,17 @@ https://wa.me/qr/VPTMZ67JRWATL1
 - GitHub: https://github.com/sahlanbuilds-web
 - LinkedIn: https://www.linkedin.com/in/muhammad-sahlan-567aa5385?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 - Portfolio: https://my-portfolio-3gk8.vercel.app
-
+- Instagram: https://www.instagram.com/itz.sahlan_?exln=YnFhZ2lkbWlpMnhx&utm_source=qr
+- Facebook: https://www.facebook.com/sahlansahlan2?mibextid=wwXIfr&mibextid=wwXIfr
+- Tiktok: https://www.tiktok.com/@sahlansahlan_?_r=1&_t=ZS-9BEFuz1nrnQ
+- Whatsapp: https://wa.me/qr/VPTMZ67JRWATL1
 ---
+
+🤓❤️‍🩹✨🍃
 
 ⭐ Thanks for visiting my profile!
 ## 
+
 
 <!--
 **sahlanbuilds-web/sahlanbuilds-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
