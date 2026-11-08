@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I'm an IT undergraduate passionate about software 
 ---
 
 ⭐ Thanks for visiting my profile!
-## Hi there 👋
+## 
 
 <!--
 **sahlanbuilds-web/sahlanbuilds-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
