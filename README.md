@@ -41,11 +41,8 @@ Welcome to my GitHub profile! I'm an IT undergraduate passionate about software 
 - Freelancer Marketplace
 - Restaurant POS System
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahlanbuilds-web&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahlanbuilds-web&layout=compact&theme=tokyonight)
+## 🪀Whatsapp
+https://wa.me/qr/VPTMZ67JRWATL1
 
 ## 🤝 Connect With Me
 
