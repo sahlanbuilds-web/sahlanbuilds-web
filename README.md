@@ -50,8 +50,8 @@ Welcome to my GitHub profile! I'm an IT undergraduate passionate about software 
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/sahlanbuilds-web
-- LinkedIn: Add your LinkedIn profile URL
-- Portfolio: Add your portfolio URL
+- LinkedIn: https://www.linkedin.com/in/muhammad-sahlan-567aa5385?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+- Portfolio: https://my-portfolio-3gk8.vercel.app
 
 ---
 
